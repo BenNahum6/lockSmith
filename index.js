@@ -59,7 +59,7 @@ function aboutUS(num){
         '\n' +
         'Lion Security Locksmith also installs CCTV & Videos Surveillance Cameras from quality brands like LTS, Pelco & Samsung in Los Angeles and nearby areas. Lion Security Locksmith team believes to provide good quality products to its customers.\n' +
         '</div>' +
-        '<div class="secend"><img src="dor.jpg"></div>' +
+        '<div class="secend"><img src="./image/dor.jpg"></div>' +
         '</div>' +
         '<h2>Why People choose us?\n</h2>' +
         'We offer security systems that utilize the latest technology and highest-quality materials, our options are guaranteed to impress you and exceed your expectations. We will be happy to discuss the various options available and assist you in find the one to best suit your needs. We will provide you with an estimate of your security system once we have completed our consultation with you.\n' +
@@ -101,19 +101,19 @@ function services(num){
         '        <p>Locksmith services include emergency call outs, key cutting, changing locks, repairs to auto locksmiths helping with lost car keys & replacement keys.  All locksmiths approved by the Master Locksmiths Association are fully vetted, inspected & qualified.</p>\n' +
         '    </div>\n' +
         '    <div class="grid-container">\n' +
-        '        <div class="grid-item"><img src="KeyDuplication.jpg" style="height: 100%; width: 100%"></div>\n' +
+        '        <div class="grid-item"><img src="./image/KeyDuplication.jpg" style="height: 100%; width: 100%"></div>\n' +
         '        <div class="grid-item"><h5>Key Cutting (All Keys Cut)</h5>\n' +
         '            <p>A locksmith near you offering a key cutting service can cut & copy keys by code or by hand if you need a spare set of keys cut.  You might require a replacement set of <keys></keys></p>\n' +
         '        </div>\n' +
-        '        <div class="grid-item"><img src="locksmith.jpg" style="height: 100%; width: 100%"></div>\n' +
+        '        <div class="grid-item"><img src="./image/locksmith.jpg" style="height: 100%; width: 100%"></div>\n' +
         '        <div class="grid-item"><h5>Lock Replacement, Change & Fitting</h5>\n' +
         '            <p>Have you moved into a new house & want to change, fit or have replacement door locks, a MLA Approved Locksmith can change & replace your door or window locks</p>\n' +
         '        </div>\n' +
-        '        <div class="grid-item"><img src="home.jpg" style="height: 100%; width: 100%"></div>\n' +
+        '        <div class="grid-item"><img src="./image/home.jpg" style="height: 100%; width: 100%"></div>\n' +
         '        <div class="grid-item"><h5>House and Home Door Locks & Keys</h5>\n' +
         '            <p>If you need a locksmith for your home, a locksmith approved by MLA can help. Have your lost your house keys or locked out the house a locksmith can open your locks</p>\n' +
         '        </div>\n' +
-        '        <div class="grid-item"><img src="hackADor.jpg" style="height: 100%; width: 100%"></div>\n' +
+        '        <div class="grid-item"><img src="./image/hackADor.jpg" style="height: 100%; width: 100%"></div>\n' +
         '        <div class="grid-item"><h5>Locked Out Of House & What To do ?</h5>\n' +
         '            <p>Are you locked out of your house with no spare key? A locksmith can help by unlocking & opening the door without damaging the lock by using a non-destructive way.</p>\n' +
         '        </div>\n' +
@@ -150,18 +150,18 @@ function contactUs(num){
         '        <div id="contactUsMorWay">\n' +
         '            <div class="tooltip" id="icon-facebook">\n' +
         '                <span class="tooltiptext">facebook</span>\n' +
-        '                <a href="https://www.facebook.com/bennahum6" target="_blank" style="color: black">  <img src="facebook.png" height="50" width="50"></a>\n' +
+        '                <a href="https://www.facebook.com/bennahum6" target="_blank" style="color: black">  <img src="./image/facebook.png" height="50" width="50"></a>\n' +
         '            </div>\n' +
         '            <div><p>&nbsp;</p></div>\n' +
         '            <div class="tooltip" id="icon-instagram">\n' +
         '                <span class="tooltiptext">instagram</span>\n' +
-        '                <a href="https://www.instagram.com/ben_nahum/" target="_blank" style="color: black">  <img src="instagram.png" height="50" width="50"></a>\n' +
+        '                <a href="https://www.instagram.com/ben_nahum/" target="_blank" style="color: black">  <img src="./image/instagram.png" height="50" width="50"></a>\n' +
         '            </div>\n' +
         '            <div><p>&nbsp;</p></div>\n' +
         '            <div class="tooltip" id="icon-whatsapp">\n' +
         '                <span class="tooltiptext">whatsapp</span>\n' +
         '                <a href="https://api.whatsapp.com/send?phone=545565765&text=Hi,%20I\\\\m % 20interested % 20 in % 20your % 20service"\n' +
-        '                   target="_blank" style="color: black">  <img src="whatsapp.png" height="50" width="50"\n' +
+        '                   target="_blank" style="color: black">  <img src="./image/whatsapp.png" height="50" width="50"\n' +
         '                ></a>\n' +
         '            </div>\n' +
         '        </div>\n' +
