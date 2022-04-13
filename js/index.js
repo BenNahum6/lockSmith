@@ -5,9 +5,6 @@ $(document).ready(function (){
     $('#logo1').click(function () {//return to main page.
         home(0);
     });
-    $('#logo2').click(function () {//return to main page.
-        home(0);
-    });
 
     $("button").click(function () {//Navigation Bar.
         let clickOn = $(this).attr("id");
@@ -188,14 +185,14 @@ function policy(){
         '<div class="firstParagraf">' +
         '    <div class="privacy-Policy-Text" id="moveText">\n' +
         '        <p>\n' +
-        '            Privacy policy of Master Locksmiths Association online enquiries –\n' +
+        '            Privacy policy of Master Locksmiths Association online enquiries \n' +
         '            <br><br>\n' +
         '        <div id="fontWeight">1. Introduction</div>\n' +
-        '        1.1 In this policy, “we”, “us”, “our” refer to Master Locksmiths Association and “you” and “your” refer to natural personas that uses our website to send an enquiry.\n' +
+        '        1.1 In this policy, we, us, our refer to Master Locksmiths Association and you and your refer to natural personas that uses our website to send an enquiry.\n' +
         '        <br>\n' +
         '        1.2 We are committed to protect the private data we receive and store from you and respect your rights under the General Data Protection Regulation.\n' +
         '        <br>\n' +
-        '        1.3 This policy applies when we receive your data, and we are acting as “data controller” and when we process it, and we are acting as “data processor”.\n' +
+        '        1.3 This policy applies when we receive your data, and we are acting as data controller and when we process it, and we are acting as data processor.\n' +
         '        <br>\n' +
         '        1.4 For more information about us and how you can contact us, please see Section 10.\n' +
         '        <br><br>\n' +
